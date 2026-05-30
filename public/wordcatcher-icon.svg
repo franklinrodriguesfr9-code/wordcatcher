@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WordCatcher icon">
+  <rect width="512" height="512" rx="112" fill="#12111a" />
+  <path d="M136 154c0-20 16-36 36-36h168c20 0 36 16 36 36v204c0 20-16 36-36 36H172c-20 0-36-16-36-36V154Z" fill="#252436" />
+  <path d="M172 190h168M172 244h168M172 298h112" stroke="#c4b5fd" stroke-width="30" stroke-linecap="round" />
+  <path d="M328 364l40 40 70-92" fill="none" stroke="#22c55e" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
